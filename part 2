@@ -1,0 +1,10 @@
+10 PRINT "Enter a number"
+20 Input B
+30 print "enter a number"
+40 input c
+50 let t=0
+60 let t=t+b
+70 let b=b+1
+80 If b<=c then go to 60
+90 print t
+100 end
